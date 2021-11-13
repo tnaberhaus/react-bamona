@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-bamona/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-bamona/static/js/main.8a9da576.chunk.js",
-    "main.js.map": "/react-bamona/static/js/main.8a9da576.chunk.js.map",
+    "main.js": "/react-bamona/static/js/main.d7005ae6.chunk.js",
+    "main.js.map": "/react-bamona/static/js/main.d7005ae6.chunk.js.map",
     "runtime-main.js": "/react-bamona/static/js/runtime-main.47689420.js",
     "runtime-main.js.map": "/react-bamona/static/js/runtime-main.47689420.js.map",
     "static/js/2.fda31a1e.chunk.js": "/react-bamona/static/js/2.fda31a1e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.47689420.js",
     "static/js/2.fda31a1e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8a9da576.chunk.js"
+    "static/js/main.d7005ae6.chunk.js"
   ]
 }
