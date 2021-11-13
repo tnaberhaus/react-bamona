@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-bamona/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-bamona/static/js/main.d7005ae6.chunk.js",
-    "main.js.map": "/react-bamona/static/js/main.d7005ae6.chunk.js.map",
+    "main.js": "/react-bamona/static/js/main.a8f92800.chunk.js",
+    "main.js.map": "/react-bamona/static/js/main.a8f92800.chunk.js.map",
     "runtime-main.js": "/react-bamona/static/js/runtime-main.47689420.js",
     "runtime-main.js.map": "/react-bamona/static/js/runtime-main.47689420.js.map",
-    "static/js/2.fda31a1e.chunk.js": "/react-bamona/static/js/2.fda31a1e.chunk.js",
-    "static/js/2.fda31a1e.chunk.js.map": "/react-bamona/static/js/2.fda31a1e.chunk.js.map",
+    "static/js/2.07f5ded7.chunk.js": "/react-bamona/static/js/2.07f5ded7.chunk.js",
+    "static/js/2.07f5ded7.chunk.js.map": "/react-bamona/static/js/2.07f5ded7.chunk.js.map",
     "static/js/3.22910134.chunk.js": "/react-bamona/static/js/3.22910134.chunk.js",
     "static/js/3.22910134.chunk.js.map": "/react-bamona/static/js/3.22910134.chunk.js.map",
     "index.html": "/react-bamona/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/react-bamona/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fda31a1e.chunk.js.LICENSE.txt": "/react-bamona/static/js/2.fda31a1e.chunk.js.LICENSE.txt",
+    "static/js/2.07f5ded7.chunk.js.LICENSE.txt": "/react-bamona/static/js/2.07f5ded7.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-bamona/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.47689420.js",
-    "static/js/2.fda31a1e.chunk.js",
+    "static/js/2.07f5ded7.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d7005ae6.chunk.js"
+    "static/js/main.a8f92800.chunk.js"
   ]
 }
