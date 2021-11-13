@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
        <h2>HELLO REACT BAMONA!</h2>
+       <div>Will load and display bamona species in a react app</div>
       </header>
     </div>
   );
