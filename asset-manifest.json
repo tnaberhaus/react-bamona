@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-bamona/static/css/main.a4e6fcfa.chunk.css",
+    "main.css": "/react-bamona/static/css/main.629a0d41.chunk.css",
     "main.js": "/react-bamona/static/js/main.42533c36.chunk.js",
     "main.js.map": "/react-bamona/static/js/main.42533c36.chunk.js.map",
     "runtime-main.js": "/react-bamona/static/js/runtime-main.47689420.js",
@@ -10,13 +10,13 @@
     "static/js/3.22910134.chunk.js": "/react-bamona/static/js/3.22910134.chunk.js",
     "static/js/3.22910134.chunk.js.map": "/react-bamona/static/js/3.22910134.chunk.js.map",
     "index.html": "/react-bamona/index.html",
-    "static/css/main.a4e6fcfa.chunk.css.map": "/react-bamona/static/css/main.a4e6fcfa.chunk.css.map",
+    "static/css/main.629a0d41.chunk.css.map": "/react-bamona/static/css/main.629a0d41.chunk.css.map",
     "static/js/2.fda31a1e.chunk.js.LICENSE.txt": "/react-bamona/static/js/2.fda31a1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.47689420.js",
     "static/js/2.fda31a1e.chunk.js",
-    "static/css/main.a4e6fcfa.chunk.css",
+    "static/css/main.629a0d41.chunk.css",
     "static/js/main.42533c36.chunk.js"
   ]
 }
