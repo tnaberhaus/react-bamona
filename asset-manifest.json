@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-pages/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-pages/static/js/main.8a9da576.chunk.js",
-    "main.js.map": "/react-pages/static/js/main.8a9da576.chunk.js.map",
-    "runtime-main.js": "/react-pages/static/js/runtime-main.8147a963.js",
-    "runtime-main.js.map": "/react-pages/static/js/runtime-main.8147a963.js.map",
-    "static/js/2.fda31a1e.chunk.js": "/react-pages/static/js/2.fda31a1e.chunk.js",
-    "static/js/2.fda31a1e.chunk.js.map": "/react-pages/static/js/2.fda31a1e.chunk.js.map",
-    "static/js/3.22910134.chunk.js": "/react-pages/static/js/3.22910134.chunk.js",
-    "static/js/3.22910134.chunk.js.map": "/react-pages/static/js/3.22910134.chunk.js.map",
-    "index.html": "/react-pages/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-pages/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fda31a1e.chunk.js.LICENSE.txt": "/react-pages/static/js/2.fda31a1e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-bamona/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-bamona/static/js/main.8a9da576.chunk.js",
+    "main.js.map": "/react-bamona/static/js/main.8a9da576.chunk.js.map",
+    "runtime-main.js": "/react-bamona/static/js/runtime-main.47689420.js",
+    "runtime-main.js.map": "/react-bamona/static/js/runtime-main.47689420.js.map",
+    "static/js/2.fda31a1e.chunk.js": "/react-bamona/static/js/2.fda31a1e.chunk.js",
+    "static/js/2.fda31a1e.chunk.js.map": "/react-bamona/static/js/2.fda31a1e.chunk.js.map",
+    "static/js/3.22910134.chunk.js": "/react-bamona/static/js/3.22910134.chunk.js",
+    "static/js/3.22910134.chunk.js.map": "/react-bamona/static/js/3.22910134.chunk.js.map",
+    "index.html": "/react-bamona/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-bamona/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fda31a1e.chunk.js.LICENSE.txt": "/react-bamona/static/js/2.fda31a1e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-bamona/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8147a963.js",
+    "static/js/runtime-main.47689420.js",
     "static/js/2.fda31a1e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.8a9da576.chunk.js"
